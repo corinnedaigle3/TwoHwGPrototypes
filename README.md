@@ -1,15 +1,17 @@
 # TwoHwGPrototypes
-GitHub Link: https://github.com/corinnedaigle3/TwoHwGPrototypes
-
 
 What is in Each File:
+
 GP2Team<Number>_HWG_Prototype_ART
+
 Dragon
 Gem (McGuffin)
 Walls
 Floor
 Torches
+
 GP2Team<Number>_HWG_Prototype_GP
+
 Testdragon
 Testplayer
 Map/Room Layouts
@@ -35,6 +37,7 @@ Free McGuffin from the dragon by navigating through a maze patrolled by the drag
 
 
 Controls Mouse and Keyboard 
+
 WASD to move
 Left Shift to sprint
 Space to jump
@@ -43,6 +46,7 @@ Escape to pause
 
 
 Controls Controller
+
 Left stick for movement
 Right stick for camera
 Left bumper for sprint
@@ -59,6 +63,7 @@ Date: 2/19/25
 
 
 New features
+
 ﻿Dragon follows the player in rooms two (hallway) and three (McGuffin room).
 Dragon will randomly spawn in one of three locations.
 If the dragon is in perfect line of sight, the dragon will back up and teleport to a random spawn location.
@@ -68,13 +73,16 @@ If the player takes longer than 90 seconds to complete the game, the Dragon wins
 If the dragon can catch that player, the Dragon wins.
 ﻿
 Fixes
+
 ﻿First Draft, so no new fixes
 ﻿
 Improvements (of existing features)
+
 ﻿First Draft, so no new improvements
 
 
 Known Bugs
+
 ﻿Players can get stuck on walls if followed too closely.
 The dragon can clip through walls when following the player.
 The roof can become see-through when inside the starting room and ending room.
